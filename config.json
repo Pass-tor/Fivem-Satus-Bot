@@ -1,0 +1,11 @@
+{
+    "token": "Your token secret bot",
+    "prefix": "!", 
+    "server_ip": "Your Fivem server ip",
+    "server_name":"Fivem server name",
+    "server_url":" Fivem Server URL",
+    "server_connect":" FiveM SErver Connecr or IP"
+    "suggestion_channel": "Channel id from your server discord"
+}
+
+ 
